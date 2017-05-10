@@ -1,6 +1,6 @@
 # Tages
 
-![Completed: 100%](https://img.shields.io/badge/completed-100%25-green.svg)
+![Status: Completed](https://img.shields.io/badge/status-completed-green.svg)
 [![License: GPL](https://img.shields.io/badge/license-gpl--3.0-green.svg)](https://opensource.org/licenses/GPL-3.0)
 ![Language: go](https://img.shields.io/badge/language-go-blue.svg)
 
