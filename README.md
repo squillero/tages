@@ -8,7 +8,7 @@ The [iterated prisoner's dilemma](https://en.wikipedia.org/wiki/Prisoner%27s_dil
 
 Tages pushes the idea of adaptation one step further: it builds a model of the current adversary from scratch, without relying on any pre-defined archetypes, and tweaks it as the game develops using an evolutionary algorithm; at the same time, it exploits the model to lead the game into the most favorable continuation. Models are compact non-deterministic finite state machines; they are extremely efficient in predicting opponents' replies, without being completely correct by necessity. Experimental results show that such player is able to win several one-to-one games against strong opponents taken from the literature, and that it consistently prevails in round-robin tournaments of different sizes. See the article *Exploiting Evolutionary Modeling to Prevail in Iterated Prisoner's Dilemma Tournaments* (DOI: [10.1109/TCIAIG.2015.2439061](https://dx.doi.org/10.1109/TCIAIG.2015.2439061)) for more details.
 
-This project marks Squillero's first attempt to learn [Go](http://golang.org/), and the overall quality of the code reflects it. If you have comments or criticisms please write directly to [giovanni.squillero@polito.it](mailto:giovanni.squillero@polito.it).
+> This project marks Squillero's first attempt to learn [Go](http://golang.org/), and the overall quality of the code reflects it. If you have comments or criticisms please write directly to <[giovanni.squillero@polito.it](mailto:giovanni.squillero@polito.it)>.
 
 **Copyright © 2015 Giovanni Squillero**
 
