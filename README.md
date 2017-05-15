@@ -10,6 +10,6 @@ Tages pushes the idea of adaptation one step further: it builds a model of the c
 
 > This project marks my first attempt to learn [Go](http://golang.org/), and the overall quality of the code reflects it.
 
-**Copyright © 2015 Giovanni Squillero**
+**Copyright © 2015 Giovanni Squillero.**
 
 Tages is free software: you can redistribute it and/or modify it under the terms of the [GNU General Public License](http://www.gnu.org/licenses/) as published by the *Free Software Foundation*, either [version 3](https://opensource.org/licenses/GPL-3.0) of the License, or (at your option) any later version.
